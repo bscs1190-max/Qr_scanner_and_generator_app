@@ -17,14 +17,6 @@
 
 ---
 
-## 📸 App Preview
-
-<p align="center">
-  <img src="screenshots/scanner_preview.png" alt="Scanner Preview" width="320"/>
-</p>
-
----
-
 ## ✨ Key Features
 
 - ⚡ **Instant Camera Scanning**: High-speed real-time barcode & QR recognition with flash toggle and camera flip.
